@@ -1,0 +1,11 @@
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.exe
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.deps.json
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.runtimeconfig.json
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.dll
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.pdb
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfo.cs
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.dll
+C:\Users\hakan\source\repos\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.pdb
