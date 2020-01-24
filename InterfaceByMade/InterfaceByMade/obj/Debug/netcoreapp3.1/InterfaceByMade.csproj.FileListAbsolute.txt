@@ -1,0 +1,10 @@
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.exe
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.deps.json
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.runtimeconfig.json
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.dll
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\bin\Debug\netcoreapp3.1\InterfaceByMade.pdb
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\obj\Debug\netcoreapp3.1\InterfaceByMade.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\obj\Debug\netcoreapp3.1\InterfaceByMade.AssemblyInfo.cs
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\obj\Debug\netcoreapp3.1\InterfaceByMade.dll
+C:\Users\hakan\source\repos\InterfaceByMade\InterfaceByMade\obj\Debug\netcoreapp3.1\InterfaceByMade.pdb
