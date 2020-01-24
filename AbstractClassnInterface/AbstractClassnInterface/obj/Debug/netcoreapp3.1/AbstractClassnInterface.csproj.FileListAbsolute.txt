@@ -1,0 +1,11 @@
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.exe
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.deps.json
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.runtimeconfig.json
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.dll
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\bin\Debug\netcoreapp3.1\AbstractClassnInterface.pdb
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\obj\Debug\netcoreapp3.1\AbstractClassnInterface.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\obj\Debug\netcoreapp3.1\AbstractClassnInterface.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\obj\Debug\netcoreapp3.1\AbstractClassnInterface.AssemblyInfo.cs
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\obj\Debug\netcoreapp3.1\AbstractClassnInterface.dll
+C:\Users\hakan\source\repos\AbstractClassnInterface\AbstractClassnInterface\obj\Debug\netcoreapp3.1\AbstractClassnInterface.pdb
