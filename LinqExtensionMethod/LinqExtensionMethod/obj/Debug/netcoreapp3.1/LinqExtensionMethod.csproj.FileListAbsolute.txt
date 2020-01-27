@@ -1,0 +1,10 @@
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.exe
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.deps.json
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.runtimeconfig.json
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.dll
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\bin\Debug\netcoreapp3.1\LinqExtensionMethod.pdb
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\obj\Debug\netcoreapp3.1\LinqExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\obj\Debug\netcoreapp3.1\LinqExtensionMethod.AssemblyInfo.cs
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\obj\Debug\netcoreapp3.1\LinqExtensionMethod.dll
+C:\Users\hakan\source\repos\LinqExtensionMethod\LinqExtensionMethod\obj\Debug\netcoreapp3.1\LinqExtensionMethod.pdb
